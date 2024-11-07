@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tidak_ada_media_yang_dipilih">Tidak ada media yang dipilih</string>
+    <string name="no_results_found">No results found</string>
+    <string name="select_an_image_first">Select an image first</string>
+    <string name="inference_time_ms">inference time : %1$s ms</string>
+    <string name="results">Result</string>
+    <string name="asclepius">Asclepius</string>
+    <string name="news_for_you">News for you :</string>
+    <string name="news_image">News Image</string>
+    <string name="news_title">News Title</string>
+    <string name="news_description">News description…</string>
+    <string name="published_date">Published Date</string>
+    <string name="save">Save</string>
+    <string name="history_txt">History :</string>
+    <string name="hasil_cancer">(Hasil Cancer)</string>
+    <string name="history_image">history_image</string>
+    <string name="error_no_image_returned_after_cropping">Error: No image returned after cropping</string>
+    <string name="image_logo">image_logo</string>
+    <string name="cancer_detection_app">Cancer Detection App</string>
+    <string name="place_holder_image">place holder image</string>
+    <string name="image_analyze">Image Analyze :</string>
+    <string name="result_text">Result :</string>
+    <string name="result_image">result_image</string>
+    <string name="arrow_back">arrow_back</string>
+    <string name="news">News</string>
+    <string name="history">History</string>
+</resources>
