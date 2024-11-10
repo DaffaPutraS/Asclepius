@@ -13,4 +13,8 @@
     </style>
 
     <style name="Theme.Asclepius" parent="Base.Theme.Asclepius" />
+
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/secondaryContainer</item>
+    </style>
 </resources>
